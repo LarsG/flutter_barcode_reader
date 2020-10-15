@@ -21,7 +21,7 @@ class ScannerOverlay: UIView {
 
     var style:ScanAnimationStyle = .default
     
-    var remainText:String = "请将条码/二维码放入框内"
+    var remainText:String = "QR-Code in Box setzen"
     
 //    private var scanLineRect: CGRect {
 //        let scanRect = calculateScanRect()
