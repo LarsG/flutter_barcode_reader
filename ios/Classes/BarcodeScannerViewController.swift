@@ -35,10 +35,10 @@ class BarcodeScannerViewController: UIViewController {
   
   var config: Configuration = Configuration.with {
     $0.strings = [
-     "title" : "扫一扫",
-     "detail" : "请将条码/二维码放入框内",
-      "flash_on" : "打开手电筒",
-      "flash_off" : "关闭手电筒",
+     "title" : "Zurück",
+     "detail" : "QR-Code in Box setzen",
+      "flash_on" : "Licht an",
+      "flash_off" : "Licht aus",
       "hand_input" : "手动输入",
       "show_hand_input" : "0",
       "hand_input_dialog_title" : "输入付款码",
